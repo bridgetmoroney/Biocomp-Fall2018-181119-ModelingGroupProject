@@ -1,0 +1,27 @@
+For coding:
+
+1)It might be helpful to comment more when you use the piping, since we didn't do that in class
+
+2)Code was very well organized and it was clear what you were doing in every step
+
+3)You used a lot of different parameters, which is a great idea for simulations because you can see a lot of different scenarios
+
+
+For report:
+
+1)Even though it looks like the population hits zero, it actually never reaches 0, be careful when saying that
+
+2)When talking about conversion efficiency, maybe explain what that means more (i.e. if conversion efficiency is low the biomass of prey is not being converting into new predators)
+
+3)Define more dramatic life cycle slope (more steep?)
+
+4)Elaborate a little more about predator-prey dynamics in the question on the role of predators
+
+5Adding graphs to your report would make it easier to visualize what you are saying with text, and shows that your code works
+
+
+General comments:
+-Your for loops show that you knew how to use the skills of the class to efficiently code what you need to do, good job!
+
+-Code is easy to follow and well commented 
+
